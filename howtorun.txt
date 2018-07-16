@@ -1,8 +1,11 @@
-If you are interested and want to run, customize and edit this project. 
-you need to install Microcontroller Development Kit in this project i used keil uVision (Keil uVision4 or higher is recommended) 
+For person who interested this project and want to learn more, all file about program is in SourceCode.zip
+ 
+And, That need to install Microcontroller Development Kit. On this project i used keil uVision (Keil uVision4 or higher is recommended) 
 
-then go to directory 
+then go to directory. 
 	...Project\RVMDK\Project.uvproj
+
+That all.
 
 For more information please study the datasheet as attahced  
 
