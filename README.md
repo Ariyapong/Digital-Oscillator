@@ -2,5 +2,5 @@
 
 Digital-Oscillator
 
-The small Digital Oscillator oscillate sine wave signal that you can control some frequency and amplitude. This system consists of low pass filter circuit, microcontroller LCD dispaly and touch screen module
+The compact Digital Oscillator oscillate sine wave signal that you can control some frequency and amplitude. This system consists of low pass filter circuit, microcontroller(ARM CortexM3 32bit), LCD dispaly and touch screen module
 
