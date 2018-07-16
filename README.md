@@ -9,5 +9,3 @@ The compact Digital Oscillator oscillate sine wave signal that you can control s
 
 ![](https://github.com/Ariyapong/Digital-Oscillator/blob/master/overallChart.jpg?raw=true)
 
-**Overall Diagram**
-![](https://github.com/Ariyapong/Digital-Oscillator/blob/master/Image/projectdiagram.jpg?raw=true)
