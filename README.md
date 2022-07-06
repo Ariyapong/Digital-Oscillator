@@ -32,4 +32,3 @@ And, That need to install Microcontroller Development Kit. On this project i use
 then go to directory. 
 	...Project\RVMDK\Project.uvproj
   
-  That's all.
